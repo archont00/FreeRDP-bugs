@@ -1,0 +1,28 @@
+
+xwininfo: Please select the window about which you
+          would like information by clicking the
+          mouse in that window.
+
+xwininfo: Window id: 0x28009dc "Inbox - XXXX - Microsoft Outlook - \\Remote"
+
+  Absolute upper-left X:  152
+  Absolute upper-left Y:  34
+  Relative upper-left X:  0
+  Relative upper-left Y:  0
+  Width: 1089
+  Height: 870
+  Depth: 24
+  Visual: 0x21
+  Visual Class: TrueColor
+  Border width: 0
+  Class: InputOutput
+  Colormap: 0x20 (installed)
+  Bit Gravity State: ForgetGravity
+  Window Gravity State: NorthWestGravity
+  Backing Store State: NotUseful
+  Save Under State: no
+  Map State: IsViewable
+  Override Redirect State: no
+  Corners:  +152+34  -39+34  -39-120  +152-120
+  -geometry 977x843-29+24
+
